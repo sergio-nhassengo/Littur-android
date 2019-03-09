@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    tools:context=".Frag_Leitura_Portugues">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:id="@+id/textLivro"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Is. 2, 1-5"
+            android:textStyle="italic"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Headline"
+            android:textColor="#000000"/>
+        />
+
+        <TextView
+            android:id="@+id/textPassagemBiblica"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textLivro"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="?attr/actionBarSize"
+            android:text="1 Visao que teve Isaisas, filho de Amos, a respeito de Juda e de Jerusalem:
+2 E aconcetecera, nos ultimos dias, que se..."
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Menu"
+            android:textSize="17dp"/>
+    </RelativeLayout>
+</ScrollView>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Littur</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Littur</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="lembrete">Lembrete</string>
+    <string name="sobre">Sobre</string>
+    <string name="sobreAplicativo">
+        O aplicativo foi desenvolvido com o intuito de suprir a necessidade do criador que buscava uma
+        forma facil e simples de poder ter acesso as leituras catolicas.
+        Ao perceber que muitos cristaos catolicos tambem poderiam ter a mesma necessidade, o aplicativo
+        foi disponibilizado ao publico em geral,sem necessidades de conexao a internet para funcionar.
+        O aplicativo oferece leituras diarias com traducoes em ronga apeas para as leituras dominicais.
+    </string>
+
+    <string name="sett_reminder_header">Set Reminder</string>
+    <string name="sett_reminder_label">Remind Me</string>
+    <string name="sett_reminder_desc">We will remind you to make entiries of your expense</string>
+    <string name="sett_reminder_time_label">Set Reminder Time</string>
+    <string name="sett_reminder_time_content">8 : 00 PM</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
